@@ -1,6 +1,6 @@
-# 🚀 DevOps Project Portfolio (Fresher Level)
+# 🚀 End-to-End DevOps Projects (Fresher to Intermediate)
 
-Showcasing hands-on practical experience across AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and CI/CD practices. These projects reflect real-world DevOps scenarios and solutions. 
+A curated collection of DevOps projects demonstrating cloud deployments, automation, monitoring, CI/CD pipelines, and Kubernetes orchestration using top tools like AWS, Jenkins, Docker, Terraform, and Ansible.
 
 ---
 
