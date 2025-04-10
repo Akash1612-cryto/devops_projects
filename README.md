@@ -22,7 +22,7 @@ A curated collection of DevOps projects demonstrating cloud deployments, automat
 
 ---
 
-## 🧊 Containerizing Microservices (E-Mart App)
+## 🧊 Containerizing Microservices (E-Mart App) [https://github.com/Akash1612-cryto/emartapp]
 
 - Containerized Angular, Node.js, Java, MySQL, and MongoDB microservices
 - Used multi-stage Dockerfiles for optimized builds
