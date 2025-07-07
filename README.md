@@ -1,4 +1,4 @@
-# 🚀 End-to-End DevOps Projects (Fresher to Intermediate)
+# 🚀 End-to-End DevOps Projects
 
 A curated collection of DevOps projects demonstrating cloud deployments, automation, monitoring, CI/CD pipelines, and Kubernetes orchestration using top tools like AWS, Jenkins, Docker, Terraform, and Ansible.
 
